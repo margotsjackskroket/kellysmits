@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/kelly1.webp
   bg_image: images/backgrounds/kelly1.jpg
   icon: ''
-  title: Kelly's Dream Property
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Kelly's Dream Properties
+  content: Nosotros te ayudan buscar, comprar y vender tu inmueble en la area de gran
+    Caracas.
   button:
     enable: true
     label: nuestras productos
