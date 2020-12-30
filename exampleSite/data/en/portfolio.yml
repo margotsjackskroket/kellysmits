@@ -13,7 +13,8 @@ portfolio:
   - name: Appartamento en Las Mercedes
     image: images/portfolio/casa-1.jpg
     image_webp: images/portfolio/casa-1.jpg
-    categories: []
+    categories:
+    - Alquiler
     content: BS400.000
     link: "#contact"
   - name: 'Estoy buscando casa o apartamento '
