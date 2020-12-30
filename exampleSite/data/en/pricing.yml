@@ -16,19 +16,19 @@ pricing:
     button:
       label: Bestel
       link: "#contact"
-  - name: Jacksbitterballen
-    price: "€ 12"
-    unit: dozijn
+  - name: Alquileres
+    price: 10%
+    unit: Del Valor
     services:
-    - 1GB Disk Space
-    - 10 Email Account
-    - Script Installer
-    - 1 GB Storage
-    - 10 GB Bandwidth
-    - 24/7 Tech Support
+    - otro gasto
+    - otro gasto
+    - otro gasto
+    - otro gasto
+    - otro gasto
+    - otro gasto
     button:
       label: Signup
-      link: "#"
+      link: "#contact"
   - name: Gold
     price: "$199"
     unit: month
