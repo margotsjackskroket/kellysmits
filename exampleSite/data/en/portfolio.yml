@@ -7,7 +7,6 @@ portfolio:
     image: images/portfolio/casa-1.jpg
     image_webp: images/portfolio/casa-1.webp
     categories:
-    - design
     - ventas
     content: 'Bs. 270.000 '
     link: "#contact"
