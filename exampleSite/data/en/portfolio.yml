@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Ons aanbod
+  title: Nuestros Productos
   portfolio_item:
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
