@@ -9,5 +9,5 @@ banner:
     Caracas.
   button:
     enable: true
-    label: nuestras productos
+    label: Averigualo!
     link: "#portfolio"
