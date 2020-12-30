@@ -27,7 +27,7 @@ pre = "#"
 url = "team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
+name = "precios"
 pre = "#"
 url = "pricing"
 weight = 5
