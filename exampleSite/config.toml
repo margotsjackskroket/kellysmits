@@ -1,11 +1,11 @@
-baseURL = "https://www.jackskroket.nl"
+baseURL = "https://www.kellysmits.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 themesDir = "../.."
-title = "Margot's Vegan Products"
+title = "Kelly's Dream Houses"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -55,10 +55,10 @@ weight = 7
 #weight = 8
 
 [params]
-author = "Themefisher"
-description = "Margot's finest Healty Vegan snacks"
+author = "kellysteam"
+description = "Para Gente Buscando casa en Caracas"
 google_analytics_id = ""
-logo = "images/logo1.png"
+logo = "images/logo.png"
 post_share = true
 [params.cookies]
 enable = false
