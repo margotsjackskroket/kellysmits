@@ -3,16 +3,16 @@ pricing:
   enable: true
   title: Our Plans
   pricing_table:
-  - name: Jackskroket
-    price: "€ 15"
-    unit: 24 pieces
+  - name: Ventas
+    price: 10%
+    unit: Valor de la venta
     services:
-    - 1 dozijn €15
-    - 2 dozijn €30
-    - 2 dozijn €30
-    - 2 dozijn €30
-    - 2 dozijn €30
-    - 2 dozijn €30
+    - pon gastos de la notaria
+    - gastos papeleria
+    - 'gastos derecho al frente '
+    - 'otro gasto '
+    - otro gasto
+    - otro gasto
     button:
       label: Bestel
       link: "#contact"
