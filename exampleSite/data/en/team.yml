@@ -3,9 +3,9 @@ team:
   enable: true
   title: Ons team
   team_member:
-  - name: Margot de Graaff
-    image_webp: images/team/margot.webp
-    image: images/team/margot.jpg
+  - name: Kelly Cabrera
+    image_webp: images/team/kelly.webp
+    image: images/team/kelly.jpg
     designation: CEO/Founder
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
