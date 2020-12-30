@@ -10,19 +10,12 @@ title = "Kelly's Dream Houses"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 home = "Home"
-#languageCode = "en-us"
-#languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "Nosotros"
 pre = "#"
 url = "about"
 weight = 1
-#[[Languages.en.menu.main]]
-#name = "services"
-#pre = "#"
-#url = "services"
-#weight = 2
 [[Languages.en.menu.main]]
 name = "portfolio"
 pre = "#"
@@ -48,12 +41,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-#[[Languages.en.menu.main]]
-#name = "themefisher"
-#pre = ""
-#url = "https://themefisher.com/"
-#weight = 8
-
 [params]
 author = "kellysteam"
 description = "Para Gente Buscando casa en Caracas"
