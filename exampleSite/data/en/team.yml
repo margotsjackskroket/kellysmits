@@ -7,7 +7,7 @@ team:
     image_webp: images/team/kelly.webp
     image: images/team/kelly.jpg
     designation: CEO/Founder
-    content: Estas buscando la casa de tu sueno o quieres alquilar?
+    content: 'Estoy en el mercado de Caracas desde 2010 bla bla bla '
     social:
     - icon: ti-facebook
       link: "#"
