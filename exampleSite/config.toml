@@ -22,7 +22,7 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
+name = "Equipo"
 pre = "#"
 url = "team"
 weight = 4
