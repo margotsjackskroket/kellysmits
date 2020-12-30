@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/kelly1.webp
+  bg_image: images/backgrounds/kelly1.jpg
   icon: ''
-  title: Margot's Vegan Experience
+  title: Kelly's Dream Property
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
     At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
   button:
