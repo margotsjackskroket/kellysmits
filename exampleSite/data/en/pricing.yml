@@ -27,7 +27,7 @@ pricing:
     - otro gasto
     - otro gasto
     button:
-      label: Signup
+      label: Mas informacion
       link: "#contact"
   - name: Gold
     price: "$199"
