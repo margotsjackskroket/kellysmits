@@ -24,9 +24,3 @@ portfolio:
     - Buscando
     content: 'Por favor escribanos '
     link: "#contact"
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
