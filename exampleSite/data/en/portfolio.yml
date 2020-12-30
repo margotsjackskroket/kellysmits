@@ -22,5 +22,6 @@ portfolio:
     image_webp: images/portfolio/casa-1.jpg
     categories:
     - Buscando
+    - ventas
     content: 'Por favor escribanos '
     link: "#contact"
